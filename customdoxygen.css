@@ -340,6 +340,15 @@ span.SRScope {
   white-space: normal;
 }
 
+/* memtitle -- class member name on class page */
+.memtitle {
+  padding: 0px 0px 0px 8px;
+  border: none;
+  margin-bottom: -8px;
+  background: none;
+  line-height: normal;
+}
+
 /* enumerations */
 .panel-body thead > tr {
   background-color: #e0e0e0;
