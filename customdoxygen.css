@@ -20,6 +20,9 @@ font-size: 1.15em !important;
   color: #EEE;
   background-color: #222;
 }
+.navbar-brand {
+  float: right;
+}
 table{
     white-space:pre-wrap !important;
 }
