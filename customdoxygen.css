@@ -16,7 +16,7 @@ font-size: 1.15em !important;
 .navbar-brand {
   margin-right: 8px;
 }
-.navbar-brand:hover {
+.navbar-brand a:hover {
   color: #EEE;
   background-color: #222;
 }
