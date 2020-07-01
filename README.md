@@ -5,6 +5,8 @@ This is my fork of doxygen-bootstrap containing a handful of tweeks and fixes.
 
 # Changes
 * Added styling for the `memtitle` class (was using default Doxygen styling before)
+* Added link to "Project Name" in navbar
+* Added class list and class index to navbar
 
 # How to Integrate (from Velron/doxygen-bootstrapped)
 
