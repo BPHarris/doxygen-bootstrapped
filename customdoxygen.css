@@ -355,10 +355,12 @@ span.SRScope {
   background: none;
   line-height: normal;
 }
-
-.panel-heading {
-  padding: 26px;
+/* memname -- class type? name on class page */
+.memname {
+  padding-bottom: 20px;
+  padding-top: 16px;
 }
+
 
 /* enumerations */
 .panel-body thead > tr {
