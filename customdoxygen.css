@@ -356,6 +356,10 @@ span.SRScope {
   line-height: normal;
 }
 
+.panel-heading {
+  padding: 26px;
+}
+
 /* enumerations */
 .panel-body thead > tr {
   background-color: #e0e0e0;
