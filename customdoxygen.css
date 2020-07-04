@@ -356,7 +356,15 @@ span.SRScope {
   line-height: normal;
 }
 /* memname -- class type? name on class page */
-.memname .paramtype .paramname {
+.memname {
+  padding-bottom: 20px;
+  padding-top: 16px;
+}
+.paramtype {
+  padding-bottom: 20px;
+  padding-top: 16px;
+}
+.paramname {
   padding-bottom: 20px;
   padding-top: 16px;
 }
